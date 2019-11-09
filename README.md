@@ -5,17 +5,17 @@ git clone
 # Installation
 Create virtual environments and install dependencies
 
-conda create -n CPPNetEnv python=3.6
-conda activate CPPNetEnv (or source activate CPPNetEnv)
-conda install r
-install.packages("LncFinder",repos="https://cloud.r-project.org/")
-pip install numpy
-pip install pandas
-pip install sklearn
-pip install biopython
-pip install tensorflow
-pip install keras
-pip install rpy2==3.0.1
+conda create -n CPPNetEnv python=3.6 
+conda activate CPPNetEnv (or source activate CPPNetEnv) 
+conda install r 
+install.packages("LncFinder",repos="https://cloud.r-project.org/") 
+pip install numpy 
+pip install pandas 
+pip install sklearn 
+pip install biopython 
+pip install tensorflow 
+pip install keras 
+pip install rpy2==3.0.1 
 
 # Inputs
 Fasta format file
