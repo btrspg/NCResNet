@@ -1,7 +1,7 @@
 # NCResNet: Noncoding RNA Prediction Based on a Deep Resident Network of RNA Sequences
 A deep learning-based method to predict noncoding RNAs of RNA sequences
 # Dwonload
-git clone 
+git clone https://github.com/abcair/NCResNet.git  
 # Installation
 Create virtual environments and install dependencies
 
