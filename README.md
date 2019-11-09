@@ -21,7 +21,7 @@ pip install rpy2==3.0.1
 Fasta format file
 
 # Outputs
-csv format file
+CSV format file
 
 # Command Line usage
 python test.py -i ./demo.fasta -m NCResNet.h5 -o result.tsv
