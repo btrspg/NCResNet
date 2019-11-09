@@ -24,7 +24,7 @@ def get_seq_id(seq_path):
     return ids
 
 '''
-python test.py -i ./demo.fasta -m cppnet.h5 -o result.tsv
+python test.py -i ./demo.fasta -m NCResNet.h5 -o result.tsv
 '''
 
 parser = OptionParser()
