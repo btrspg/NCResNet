@@ -5,8 +5,8 @@ git clone https://github.com/abcair/NCResNet.git
 # Installation
 Create virtual environments and install dependencies
 
-conda create -n CPPNetEnv python=3.6  
-conda activate CPPNetEnv (or source activate CPPNetEnv)  
+conda create -n NCResNetEnv python=3.6  
+conda activate NCResNetEnv (or source activate NCResNetEnv)  
 conda install r  
 install.packages("LncFinder",repos="https://cloud.r-project.org/")  
 pip install numpy  
